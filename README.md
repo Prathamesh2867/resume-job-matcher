@@ -1,10 +1,9 @@
-# Resume Job Matcher
+# Resume Job Matcher 🧠💼
 
-Python tool that scans resumes, extracts skills using NLP, and matches them to jobs, then generates a report.
+This Python project reads a resume, extracts the skills using NLP, compares them to job requirements, and generates an Excel report showing which jobs match best.
 
-## How to Use
+## 📦 Installation
 
-1. Install packages:
-
-
-2. Run:
+```bash
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
