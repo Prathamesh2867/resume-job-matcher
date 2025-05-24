@@ -1,0 +1,4 @@
+Prathamesh
+Experienced software developer with Python, Java, and SQL.
+Worked on web applications and automation tools.
+Familiar with Git and data analysis.
