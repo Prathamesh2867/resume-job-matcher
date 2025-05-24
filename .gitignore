@@ -1,6 +1,11 @@
+
+*(Yes, it starts with a dot.)*
+
+3. Open it and paste this:
+
+```bash
 __pycache__/
 *.pyc
 *.xlsx
-venv/
 .env
-
+venv/
